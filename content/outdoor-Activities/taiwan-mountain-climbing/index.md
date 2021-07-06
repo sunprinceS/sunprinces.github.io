@@ -59,7 +59,7 @@ carousel_item:
   image: 2.jpg
   caption: 立霧山
 - album: hiking
-  image: 4.jpg
+  image: 3.jpg
   caption: 平溪 - 望古瀑布
 - album: climbing
   image: 6.jpg
