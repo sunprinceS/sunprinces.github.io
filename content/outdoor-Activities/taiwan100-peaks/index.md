@@ -78,7 +78,7 @@ categories:
 <br />
 
 * 2021/03 - Xiluandashan (西巒大山), 3081m
-* 2020/03 - Jundashan (郡大山), 3265m
+* 2021/03 - Jundashan (郡大山), 3265m
 {{< gallery album="202103_Xiluan_Junda" >}}
 <br />
 
